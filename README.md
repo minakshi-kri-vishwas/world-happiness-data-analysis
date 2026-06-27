@@ -39,7 +39,6 @@ world-happiness-data-analysis/
 │   └── world_happiness.csv
 ├── notebooks/
 │   └── World_Happiness_Analysis.ipynb
-├── images/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
