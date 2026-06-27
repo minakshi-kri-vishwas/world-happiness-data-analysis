@@ -75,5 +75,7 @@ This project is licensed under the MIT License.
 ## 👩‍💻 Author
 
 Minakshi
+
 Computer Science Engineering Student
+
 Bihar Engineering University
